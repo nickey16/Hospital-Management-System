@@ -1,0 +1,1 @@
+The Hospital Management System is a Java-based application designed to manage patient and doctor data within a hospital setting. It uses JDBC to interact with a MySQL database, allowing users to perform CRUD (Create, Read, Update, Delete) operations on the hospital's data.
